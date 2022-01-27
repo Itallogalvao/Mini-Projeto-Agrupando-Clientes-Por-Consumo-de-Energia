@@ -20,3 +20,5 @@ Você deve executar as seguintes tarefas:
 8 - Calcular a média de consumo de energia por cluster (usar a coluna Global_active_power para o cálculo da média).
 
 Dica: Para o item 8, considere a amostra criada no item 2.
+
+Link para os dados: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
